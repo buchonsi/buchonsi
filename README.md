@@ -31,12 +31,9 @@
 <br/>
 
 ## 🪧Github History 
-<a href="s">
-  <img src=https://github-readme-stats.vercel.app/api?username=buchonsi />
-</a>
-<a href="s">
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=buchonsi&layout=compact width="35%" />
-</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buchonsi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buchonsi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
