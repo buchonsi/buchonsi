@@ -38,7 +38,7 @@
 <br/>
 <br/>
 
-### 🤝 Contact
+## 🤝 Contact
 
 - 📧 **Email**: buchonsi@naver.com
 - 📃 **티스토리**: [개인 블로그](https://smaildev.tistory.com/)
