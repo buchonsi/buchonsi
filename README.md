@@ -1,12 +1,19 @@
+<div align=right>  
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbuchonsi&count_bg=%23123D64&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+
+
 ## 👍Hi There
 
 안녕하세요. 목표를 향해 전진하는 개발자 윤종무입니다.
 
-* 🌱 성장하는 개발자
-* ⁉️ 왜를 답할 수 있는 개발자
-* 🙌 함께 일할 수 있는 개발자 
+🌱 성장하는 개발자  
+⁉️ 왜를 답할 수 있는 개발자  
+🙌 함께 일할 수 있는 개발자   
 
-를 향해 고민하고 노력합니다.
+가 되기 위해 고민하고 노력하고 있습니다. 
 
 <br/>
 
@@ -24,8 +31,12 @@
 <br/>
 
 ## 🪧Github History 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buchonsi)](https://github.com/anuraghazra/github-readme-stats)
+<a href="s">
+  <img src=https://github-readme-stats.vercel.app/api?username=buchonsi />
+</a>
+<a href="s">
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=buchonsi&layout=compact width="35%" />
+</a>
 
 <br/>
 <br/>
@@ -35,4 +46,3 @@
 - 📧 **Email**: buchonsi@naver.com
 - 📃 **티스토리**: [개인 블로그](https://smaildev.tistory.com/)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbuchonsi&count_bg=%23123D64&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
